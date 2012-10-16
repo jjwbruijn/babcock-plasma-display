@@ -1,0 +1,11 @@
+*.d
+*.eep
+*.elf
+*.hex
+*.lss
+*.map
+*.o
+*.atsuo
+Makefile
+*.mk
+*.elf.lst
